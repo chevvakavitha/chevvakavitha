@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,50:1A1A2E,100:16213E&height=220&section=header&text=Hi,%20I'm%20Kavitha%20👋&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20SQL%20•%20Power%20BI%20•%20Python%20•%20KPI%20Reporting&descAlignY=58&descColor=A9A9C8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Hi,%20I'm%20Kavitha%20👋&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20SQL%20•%20Power%20BI%20•%20Python%20•%20KPI%20Reporting&descAlignY=58&descColor=A9A9C8" width="100%"/>
 
 <img src="https://github.com/chevvakavitha.png" width="140" style="border-radius:50%;border:3px solid #00F5D4;"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&background=0F0F0FCC&center=true&vCenter=true&width=600&lines=Turning+messy+business+data+into+decisions;Building+dashboards+that+drive+action;SQL+%2B+Power+BI+%2B+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&background=000000&center=true&vCenter=true&width=600&lines=Turning+messy+business+data+into+decisions;Building+dashboards+that+drive+action;SQL+%2B+Power+BI+%2B+Python" alt="Typing SVG" />
 
 </div>
 
@@ -25,24 +25,24 @@ Python-based analytics** — from KPI reporting to predictive pricing models.
 <div align="center">
 
 <a href="https://github.com/chevvakavitha/airbnb-revenue-optimizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=airbnb-revenue-optimizer&theme=radical&bg_color=0F0F0F&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=1A1A2E" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=airbnb-revenue-optimizer&theme=radical&bg_color=000000&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=000000" />
 </a>
 <a href="https://github.com/chevvakavitha/CRM-Analytics-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=CRM-Analytics-Dashboard&theme=radical&bg_color=0F0F0F&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=1A1A2E" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=CRM-Analytics-Dashboard&theme=radical&bg_color=000000&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=000000" />
 </a>
 <br/>
 <a href="https://github.com/chevvakavitha/Customer-Segmentation-RFM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=Customer-Segmentation-RFM&theme=radical&bg_color=0F0F0F&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=1A1A2E" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=Customer-Segmentation-RFM&theme=radical&bg_color=000000&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=000000" />
 </a>
 <a href="https://github.com/chevvakavitha/Business-Reporting-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=Business-Reporting-Dashboard&theme=radical&bg_color=0F0F0F&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=1A1A2E" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=Business-Reporting-Dashboard&theme=radical&bg_color=000000&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=000000" />
 </a>
 <br/>
 <a href="https://github.com/chevvakavitha/Decision-Support-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=Decision-Support-Dashboard&theme=radical&bg_color=0F0F0F&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=1A1A2E" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=Decision-Support-Dashboard&theme=radical&bg_color=000000&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=000000" />
 </a>
 <a href="https://github.com/chevvakavitha/Zomato-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=Zomato-Data-Analysis&theme=radical&bg_color=0F0F0F&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=1A1A2E" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chevvakavitha&repo=Zomato-Data-Analysis&theme=radical&bg_color=000000&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=000000" />
 </a>
 
 </div>
@@ -73,8 +73,8 @@ Python-based analytics** — from KPI reporting to predictive pricing models.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chevvakavitha&show_icons=true&theme=radical&bg_color=0F0F0F&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=1A1A2E&hide_border=false" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chevvakavitha&theme=radical&background=0F0F0F&stroke=1A1A2E&ring=00F5D4&fire=FF6B9D&currStreakLabel=00F5D4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chevvakavitha&show_icons=true&theme=radical&bg_color=000000&title_color=00F5D4&text_color=C9C9E0&icon_color=FF6B9D&border_color=000000&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chevvakavitha&theme=radical&background=000000&stroke=000000&ring=00F5D4&fire=FF6B9D&currStreakLabel=00F5D4" height="165"/>
 
 </div>
 
@@ -95,6 +95,6 @@ Python-based analytics** — from KPI reporting to predictive pricing models.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:1A1A2E,100:0F0F0F&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer" width="100%"/>
 
 </div>
